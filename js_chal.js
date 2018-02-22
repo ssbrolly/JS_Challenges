@@ -38,8 +38,3 @@
 // }
 // console.log(upperCase('boom shaka laka'));
 
-function add(str1, str2){
-  add()= str1 + str2
-};
-
-console.log(add(2, 3));
